@@ -1,4 +1,4 @@
-//Bir öğrencinin adını, yaşını boyunu ve adının baş harfinin tutulduğu değişkenler
+//A student's name, age, height, and the variable holding the first letter of their name
 import UIKit
 
 var ad = "Furkan"

@@ -1,4 +1,4 @@
-//Bir şirketin ürünlerinin bilgilerinin tutulduğu ürünler tablosunu temsil eden değişkenler
+//Variables representing the product table holding information of products of a company
 import UIKit
 
 var urun_id:Int = 5423
