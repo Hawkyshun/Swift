@@ -13,5 +13,7 @@ print(word)
 num1 = 29
 print(num1)
 
-var newNum = num! + num1
+var newNum = num! + num1 + num2
 print(newNum)
+
+
